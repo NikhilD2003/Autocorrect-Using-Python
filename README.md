@@ -5,3 +5,4 @@ If the word exists in the history of the smartphone, it will generalize the word
 # Methodology-
 ![Screenshot 2024-08-06 142521](https://github.com/user-attachments/assets/12a5c815-b939-49d5-893a-06dc3a8bb86b)
 # Output-
+![WhatsApp Image 2024-08-06 at 14 40 24_27279198](https://github.com/user-attachments/assets/03650239-4eb3-479c-9d0d-19506fe19ce7)
